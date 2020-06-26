@@ -1,0 +1,598 @@
+Hello, world!
+evo hi
+After 10000 evals
+Evaluated 10000 programs in 0.125 secs ( 12.5217 micro secs per eval)
+On training, max fit = 0.81 , min is = 0.135
+On cv, max fit = 0.9 , min is = 0.15
+
+Ave complexity is 14.8828125
+After 20000 evals
+Evaluated 10000 programs in 0.151 secs ( 15.1339 micro secs per eval)
+On training, max fit = 0.83000004 , min is = 0.135
+On cv, max fit = 0.9 , min is = 0.15
+
+Ave complexity is 14.1376953125
+After 30000 evals
+Evaluated 10000 programs in 0.153 secs ( 15.3073 micro secs per eval)
+On training, max fit = 0.83500004 , min is = 0.135
+On cv, max fit = 0.9 , min is = 0.15
+
+Ave complexity is 13.4599609375
+After 40000 evals
+Evaluated 10000 programs in 0.142 secs ( 14.2719 micro secs per eval)
+On training, max fit = 0.83500004 , min is = 0.135
+On cv, max fit = 0.9 , min is = 0.15
+
+Ave complexity is 12.4892578125
+After 50000 evals
+Evaluated 10000 programs in 0.153 secs ( 15.3327 micro secs per eval)
+On training, max fit = 0.875 , min is = 0.17999999
+On cv, max fit = 0.875 , min is = 0.15
+
+Ave complexity is 11.7177734375
+After 60000 evals
+Evaluated 10000 programs in 0.122 secs ( 12.293 micro secs per eval)
+On training, max fit = 0.88 , min is = 0.17999999
+On cv, max fit = 0.9 , min is = 0.15
+
+Ave complexity is 10.970703125
+After 70000 evals
+Evaluated 10000 programs in 0.125 secs ( 12.5532 micro secs per eval)
+On training, max fit = 0.88 , min is = 0.17999999
+On cv, max fit = 0.9 , min is = 0.15
+
+Ave complexity is 10.4306640625
+After 80000 evals
+Evaluated 10000 programs in 0.128 secs ( 12.8365 micro secs per eval)
+On training, max fit = 0.88 , min is = 0.17999999
+On cv, max fit = 0.9 , min is = 0.15
+
+Ave complexity is 10.0625
+After 90000 evals
+Evaluated 10000 programs in 0.135 secs ( 13.5773 micro secs per eval)
+On training, max fit = 0.895 , min is = 0.17999999
+On cv, max fit = 0.95 , min is = 0.15
+
+Ave complexity is 9.6162109375
+After 100000 evals
+Evaluated 10000 programs in 0.128 secs ( 12.8258 micro secs per eval)
+On training, max fit = 0.895 , min is = 0.22999999
+On cv, max fit = 0.975 , min is = 0.15
+
+Ave complexity is 9.310546875
+After 110000 evals
+Evaluated 10000 programs in 0.117 secs ( 11.7785 micro secs per eval)
+On training, max fit = 0.895 , min is = 0.22999999
+On cv, max fit = 0.975 , min is = 0.15
+
+Ave complexity is 9.064453125
+After 120000 evals
+Evaluated 10000 programs in 0.133 secs ( 13.3137 micro secs per eval)
+On training, max fit = 0.895 , min is = 0.22999999
+On cv, max fit = 0.975 , min is = 0.15
+
+Ave complexity is 8.900390625
+After 130000 evals
+Evaluated 10000 programs in 0.123 secs ( 12.3514 micro secs per eval)
+On training, max fit = 0.905 , min is = 0.22999999
+On cv, max fit = 0.975 , min is = 0.15
+
+Ave complexity is 8.71484375
+After 140000 evals
+Evaluated 10000 programs in 0.127 secs ( 12.7472 micro secs per eval)
+On training, max fit = 0.905 , min is = 0.22999999
+On cv, max fit = 0.95 , min is = 0.15
+
+Ave complexity is 8.51171875
+After 150000 evals
+Evaluated 10000 programs in 0.12 secs ( 12.0486 micro secs per eval)
+On training, max fit = 0.905 , min is = 0.22999999
+On cv, max fit = 0.95 , min is = 0.15
+
+Ave complexity is 8.4052734375
+After 160000 evals
+Evaluated 10000 programs in 0.135 secs ( 13.5022 micro secs per eval)
+On training, max fit = 0.905 , min is = 0.22999999
+On cv, max fit = 0.95 , min is = 0.15
+
+Ave complexity is 8.2822265625
+After 170000 evals
+Evaluated 10000 programs in 0.125 secs ( 12.5164 micro secs per eval)
+On training, max fit = 0.905 , min is = 0.22999999
+On cv, max fit = 0.95 , min is = 0.15
+
+Ave complexity is 8.1123046875
+After 180000 evals
+Evaluated 10000 programs in 0.137 secs ( 13.7575 micro secs per eval)
+On training, max fit = 0.905 , min is = 0.22999999
+On cv, max fit = 0.95 , min is = 0.15
+
+Ave complexity is 8.0341796875
+After 190000 evals
+Evaluated 10000 programs in 0.117 secs ( 11.7522 micro secs per eval)
+On training, max fit = 0.905 , min is = 0.24999999
+On cv, max fit = 0.95 , min is = 0.15
+
+Ave complexity is 7.9951171875
+After 200000 evals
+Evaluated 10000 programs in 0.126 secs ( 12.6468 micro secs per eval)
+On training, max fit = 0.905 , min is = 0.24999999
+On cv, max fit = 0.95 , min is = 0.15
+
+Ave complexity is 7.9609375
+After 210000 evals
+Evaluated 10000 programs in 0.12 secs ( 12.0669 micro secs per eval)
+On training, max fit = 0.905 , min is = 0.24999999
+On cv, max fit = 0.95 , min is = 0.15
+
+Ave complexity is 7.9287109375
+After 220000 evals
+Evaluated 10000 programs in 0.124 secs ( 12.4689 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.26000002
+On cv, max fit = 0.975 , min is = 0.15
+
+Ave complexity is 7.876953125
+After 230000 evals
+Evaluated 10000 programs in 0.121 secs ( 12.1066 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.26000002
+On cv, max fit = 0.975 , min is = 0.15
+
+Ave complexity is 7.8115234375
+After 240000 evals
+Evaluated 10000 programs in 0.111 secs ( 11.1695 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.26000002
+On cv, max fit = 0.975 , min is = 0.15
+
+Ave complexity is 7.78125
+After 250000 evals
+Evaluated 10000 programs in 0.119 secs ( 11.9215 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.26000002
+On cv, max fit = 0.975 , min is = 0.15
+
+Ave complexity is 7.732421875
+After 260000 evals
+Evaluated 10000 programs in 0.121 secs ( 12.1059 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.26000002
+On cv, max fit = 0.975 , min is = 0.15
+
+Ave complexity is 7.7236328125
+After 270000 evals
+Evaluated 10000 programs in 0.123 secs ( 12.3742 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.26000002
+On cv, max fit = 0.975 , min is = 0.15
+
+Ave complexity is 7.7041015625
+After 280000 evals
+Evaluated 10000 programs in 0.13 secs ( 13.0927 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.26000002
+On cv, max fit = 0.975 , min is = 0.15
+
+Ave complexity is 7.6982421875
+After 290000 evals
+Evaluated 10000 programs in 0.122 secs ( 12.2475 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.26000002
+On cv, max fit = 0.975 , min is = 0.15
+
+Ave complexity is 7.71875
+After 300000 evals
+Evaluated 10000 programs in 0.122 secs ( 12.2328 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.26000002
+On cv, max fit = 0.975 , min is = 0.15
+
+Ave complexity is 7.7529296875
+After 310000 evals
+Evaluated 10000 programs in 0.116 secs ( 11.6288 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.26000002
+On cv, max fit = 0.975 , min is = 0.15
+
+Ave complexity is 7.7744140625
+After 320000 evals
+Evaluated 10000 programs in 0.107 secs ( 10.7946 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.26000002
+On cv, max fit = 0.975 , min is = 0.15
+
+Ave complexity is 7.7890625
+After 330000 evals
+Evaluated 10000 programs in 0.111 secs ( 11.1183 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.26000002
+On cv, max fit = 0.975 , min is = 0.15
+
+Ave complexity is 7.830078125
+After 340000 evals
+Evaluated 10000 programs in 0.152 secs ( 15.2438 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.33999997
+On cv, max fit = 0.975 , min is = 0.325
+
+Ave complexity is 7.828125
+After 350000 evals
+Evaluated 10000 programs in 0.12 secs ( 12.0432 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.33999997
+On cv, max fit = 0.975 , min is = 0.3
+
+Ave complexity is 7.896484375
+After 360000 evals
+Evaluated 10000 programs in 0.198 secs ( 19.8429 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.33999997
+On cv, max fit = 0.975 , min is = 0.3
+
+Ave complexity is 7.9853515625
+After 370000 evals
+Evaluated 10000 programs in 0.131 secs ( 13.117 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.33999997
+On cv, max fit = 0.975 , min is = 0.3
+
+Ave complexity is 8.0224609375
+After 380000 evals
+Evaluated 10000 programs in 0.126 secs ( 12.6277 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.33999997
+On cv, max fit = 0.975 , min is = 0.3
+
+Ave complexity is 8.0947265625
+After 390000 evals
+Evaluated 10000 programs in 0.182 secs ( 18.2709 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.33999997
+On cv, max fit = 0.975 , min is = 0.3
+
+Ave complexity is 8.1083984375
+After 400000 evals
+Evaluated 10000 programs in 0.363 secs ( 36.3865 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.33999997
+On cv, max fit = 0.975 , min is = 0.3
+
+Ave complexity is 8.193359375
+After 410000 evals
+Evaluated 10000 programs in 0.228 secs ( 22.8741 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.33999997
+On cv, max fit = 0.975 , min is = 0.3
+
+Ave complexity is 8.259765625
+After 420000 evals
+Evaluated 10000 programs in 0.144 secs ( 14.4075 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.33999997
+On cv, max fit = 0.975 , min is = 0.3
+
+Ave complexity is 8.3154296875
+After 430000 evals
+Evaluated 10000 programs in 0.123 secs ( 12.3834 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.33999997
+On cv, max fit = 0.975 , min is = 0.325
+
+Ave complexity is 8.4560546875
+After 440000 evals
+Evaluated 10000 programs in 0.144 secs ( 14.4862 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.33999997
+On cv, max fit = 0.975 , min is = 0.325
+
+Ave complexity is 8.5390625
+After 450000 evals
+Evaluated 10000 programs in 0.131 secs ( 13.1226 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.375
+On cv, max fit = 0.975 , min is = 0.325
+
+Ave complexity is 8.59375
+After 460000 evals
+Evaluated 10000 programs in 0.123 secs ( 12.3537 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.375
+On cv, max fit = 0.975 , min is = 0.325
+
+Ave complexity is 8.6708984375
+After 470000 evals
+Evaluated 10000 programs in 0.14 secs ( 14.0928 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.375
+On cv, max fit = 0.975 , min is = 0.325
+
+Ave complexity is 8.75
+After 480000 evals
+Evaluated 10000 programs in 0.13 secs ( 13.0132 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.375
+On cv, max fit = 0.975 , min is = 0.325
+
+Ave complexity is 8.791015625
+After 490000 evals
+Evaluated 10000 programs in 0.126 secs ( 12.6703 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.375
+On cv, max fit = 0.975 , min is = 0.325
+
+Ave complexity is 8.8837890625
+After 500000 evals
+Evaluated 10000 programs in 0.129 secs ( 12.9323 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.375
+On cv, max fit = 0.975 , min is = 0.325
+
+Ave complexity is 8.927734375
+After 510000 evals
+Evaluated 10000 programs in 0.125 secs ( 12.5383 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.375
+On cv, max fit = 0.975 , min is = 0.325
+
+Ave complexity is 8.9814453125
+After 520000 evals
+Evaluated 10000 programs in 0.122 secs ( 12.2888 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.375
+On cv, max fit = 0.975 , min is = 0.375
+
+Ave complexity is 9.0400390625
+After 530000 evals
+Evaluated 10000 programs in 0.137 secs ( 13.7897 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.375
+On cv, max fit = 0.975 , min is = 0.375
+
+Ave complexity is 9.0947265625
+After 540000 evals
+Evaluated 10000 programs in 0.125 secs ( 12.5623 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.375
+On cv, max fit = 0.975 , min is = 0.375
+
+Ave complexity is 9.1591796875
+After 550000 evals
+Evaluated 10000 programs in 0.131 secs ( 13.1468 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.375
+On cv, max fit = 0.975 , min is = 0.375
+
+Ave complexity is 9.2060546875
+After 560000 evals
+Evaluated 10000 programs in 0.109 secs ( 10.9346 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.375
+On cv, max fit = 0.975 , min is = 0.375
+
+Ave complexity is 9.2783203125
+After 570000 evals
+Evaluated 10000 programs in 0.124 secs ( 12.429 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.375
+On cv, max fit = 0.975 , min is = 0.375
+
+Ave complexity is 9.34375
+After 580000 evals
+Evaluated 10000 programs in 0.147 secs ( 14.7341 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.375
+On cv, max fit = 0.975 , min is = 0.375
+
+Ave complexity is 9.3427734375
+After 590000 evals
+Evaluated 10000 programs in 0.125 secs ( 12.5048 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.375
+On cv, max fit = 0.975 , min is = 0.375
+
+Ave complexity is 9.3955078125
+After 600000 evals
+Evaluated 10000 programs in 0.121 secs ( 12.1888 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.375
+On cv, max fit = 0.975 , min is = 0.375
+
+Ave complexity is 9.4716796875
+After 610000 evals
+Evaluated 10000 programs in 0.108 secs ( 10.8981 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.375
+On cv, max fit = 0.975 , min is = 0.375
+
+Ave complexity is 9.5673828125
+After 620000 evals
+Evaluated 10000 programs in 0.126 secs ( 12.6204 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.375
+On cv, max fit = 0.975 , min is = 0.375
+
+Ave complexity is 9.630859375
+After 630000 evals
+Evaluated 10000 programs in 0.132 secs ( 13.2449 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.375
+On cv, max fit = 0.975 , min is = 0.375
+
+Ave complexity is 9.7216796875
+After 640000 evals
+Evaluated 10000 programs in 0.145 secs ( 14.5621 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.375
+On cv, max fit = 0.975 , min is = 0.375
+
+Ave complexity is 9.802734375
+After 650000 evals
+Evaluated 10000 programs in 0.117 secs ( 11.7407 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.375
+On cv, max fit = 0.975 , min is = 0.375
+
+Ave complexity is 9.8447265625
+After 660000 evals
+Evaluated 10000 programs in 0.128 secs ( 12.839 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.375
+On cv, max fit = 0.975 , min is = 0.375
+
+Ave complexity is 9.9462890625
+After 670000 evals
+Evaluated 10000 programs in 0.124 secs ( 12.4446 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.375
+On cv, max fit = 0.975 , min is = 0.375
+
+Ave complexity is 10.0361328125
+After 680000 evals
+Evaluated 10000 programs in 0.135 secs ( 13.5016 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.375
+On cv, max fit = 0.975 , min is = 0.375
+
+Ave complexity is 10.08203125
+After 690000 evals
+Evaluated 10000 programs in 0.139 secs ( 13.959 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.375
+On cv, max fit = 0.975 , min is = 0.375
+
+Ave complexity is 10.12890625
+After 700000 evals
+Evaluated 10000 programs in 0.123 secs ( 12.3404 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.375
+On cv, max fit = 0.975 , min is = 0.375
+
+Ave complexity is 10.2646484375
+After 710000 evals
+Evaluated 10000 programs in 0.142 secs ( 14.2129 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.53499997
+On cv, max fit = 0.975 , min is = 0.375
+
+Ave complexity is 10.3544921875
+After 720000 evals
+Evaluated 10000 programs in 0.127 secs ( 12.7048 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.53499997
+On cv, max fit = 0.975 , min is = 0.375
+
+Ave complexity is 10.427734375
+After 730000 evals
+Evaluated 10000 programs in 0.119 secs ( 11.9752 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.53499997
+On cv, max fit = 0.975 , min is = 0.375
+
+Ave complexity is 10.5009765625
+After 740000 evals
+Evaluated 10000 programs in 0.127 secs ( 12.776 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.53499997
+On cv, max fit = 0.975 , min is = 0.375
+
+Ave complexity is 10.568359375
+After 750000 evals
+Evaluated 10000 programs in 0.125 secs ( 12.5053 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.53499997
+On cv, max fit = 0.975 , min is = 0.375
+
+Ave complexity is 10.6357421875
+After 760000 evals
+Evaluated 10000 programs in 0.135 secs ( 13.57 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.53499997
+On cv, max fit = 0.975 , min is = 0.425
+
+Ave complexity is 10.6748046875
+After 770000 evals
+Evaluated 10000 programs in 0.133 secs ( 13.3511 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.53499997
+On cv, max fit = 0.975 , min is = 0.425
+
+Ave complexity is 10.7060546875
+After 780000 evals
+Evaluated 10000 programs in 0.131 secs ( 13.1641 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.53499997
+On cv, max fit = 0.975 , min is = 0.425
+
+Ave complexity is 10.78515625
+After 790000 evals
+Evaluated 10000 programs in 0.11 secs ( 11.078 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.53499997
+On cv, max fit = 0.975 , min is = 0.425
+
+Ave complexity is 10.84765625
+After 800000 evals
+Evaluated 10000 programs in 0.121 secs ( 12.1218 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.53499997
+On cv, max fit = 0.975 , min is = 0.4
+
+Ave complexity is 10.8955078125
+After 810000 evals
+Evaluated 10000 programs in 0.133 secs ( 13.3264 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.53499997
+On cv, max fit = 0.975 , min is = 0.4
+
+Ave complexity is 10.9521484375
+After 820000 evals
+Evaluated 10000 programs in 0.122 secs ( 12.2059 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.53499997
+On cv, max fit = 0.975 , min is = 0.4
+
+Ave complexity is 10.98828125
+After 830000 evals
+Evaluated 10000 programs in 0.138 secs ( 13.8331 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.53499997
+On cv, max fit = 0.975 , min is = 0.4
+
+Ave complexity is 11.0234375
+After 840000 evals
+Evaluated 10000 programs in 0.127 secs ( 12.7302 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.53499997
+On cv, max fit = 0.975 , min is = 0.4
+
+Ave complexity is 11.0283203125
+After 850000 evals
+Evaluated 10000 programs in 0.13 secs ( 13.0251 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.53499997
+On cv, max fit = 0.975 , min is = 0.425
+
+Ave complexity is 11.060546875
+After 860000 evals
+Evaluated 10000 programs in 0.115 secs ( 11.528 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.53499997
+On cv, max fit = 0.975 , min is = 0.425
+
+Ave complexity is 11.1162109375
+After 870000 evals
+Evaluated 10000 programs in 0.14 secs ( 14.091 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.53499997
+On cv, max fit = 0.975 , min is = 0.45
+
+Ave complexity is 11.16796875
+After 880000 evals
+Evaluated 10000 programs in 0.115 secs ( 11.5542 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.53499997
+On cv, max fit = 0.975 , min is = 0.45
+
+Ave complexity is 11.1875
+After 890000 evals
+Evaluated 10000 programs in 0.148 secs ( 14.8902 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.585
+On cv, max fit = 0.975 , min is = 0.45
+
+Ave complexity is 11.2177734375
+After 900000 evals
+Evaluated 10000 programs in 0.158 secs ( 15.833 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.585
+On cv, max fit = 0.975 , min is = 0.45
+
+Ave complexity is 11.244140625
+After 910000 evals
+Evaluated 10000 programs in 0.15 secs ( 15.0992 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.585
+On cv, max fit = 0.975 , min is = 0.45
+
+Ave complexity is 11.291015625
+After 920000 evals
+Evaluated 10000 programs in 0.155 secs ( 15.5655 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.585
+On cv, max fit = 0.975 , min is = 0.45
+
+Ave complexity is 11.3154296875
+After 930000 evals
+Evaluated 10000 programs in 0.143 secs ( 14.3627 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.585
+On cv, max fit = 0.975 , min is = 0.45
+
+Ave complexity is 11.337890625
+After 940000 evals
+Evaluated 10000 programs in 0.142 secs ( 14.2595 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.585
+On cv, max fit = 0.975 , min is = 0.45
+
+Ave complexity is 11.37109375
+After 950000 evals
+Evaluated 10000 programs in 0.142 secs ( 14.2449 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.585
+On cv, max fit = 0.975 , min is = 0.425
+
+Ave complexity is 11.3935546875
+After 960000 evals
+Evaluated 10000 programs in 0.13 secs ( 13.0092 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.585
+On cv, max fit = 0.975 , min is = 0.425
+
+Ave complexity is 11.423828125
+After 970000 evals
+Evaluated 10000 programs in 0.123 secs ( 12.3622 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.585
+On cv, max fit = 0.975 , min is = 0.425
+
+Ave complexity is 11.44921875
+After 980000 evals
+Evaluated 10000 programs in 0.127 secs ( 12.7358 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.585
+On cv, max fit = 0.975 , min is = 0.425
+
+Ave complexity is 11.4794921875
+After 990000 evals
+Evaluated 10000 programs in 0.126 secs ( 12.6723 micro secs per eval)
+On training, max fit = 0.935 , min is = 0.585
+On cv, max fit = 0.975 , min is = 0.425
+
+Ave complexity is 11.486328125
+Overall time
+Evaluated 1000000 programs in 13.98 secs ( 13.980177 micro secs per eval)

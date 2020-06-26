@@ -8,3 +8,7 @@ edition = "2018"
 
 [dependencies]
 # tensorflow = "0.15.0"
+rand = "0.7"
+csv = "1.1"
+rustlearn = "0.5.0"
+toml = "0.4.2"

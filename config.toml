@@ -1,0 +1,30 @@
+mode = "map"   # Sets population type. Options are = "map", "gen"
+
+################  Applies to both modes   #################################
+out_folder = "new"          # any name, output folder will be created with this name
+n_iters = 5                 # integer > 0
+log_freq = 20_000
+
+data_locs = ["C:/Users/BigTuna/Dropbox/par_lgp/penndata/oa.csv"]
+min_fit = [0.3]
+# batch_sizes = [194]         # not used yet
+
+n_evals = [10_000_000]                         # array of ints
+pop_size =  [1024]                          # array of ints
+init_pop_size = [50_000]                      # array of ints
+
+mutation_methods = [0]                      # array of ints
+compare_methods = [0]                    # array of ints
+
+
+
+
+#    ***  For Map mode only ***
+[map]
+map_methods = [8] #  4 10 11  # 12  13 18 20 21 22  # 13 14 15 18
+
+#    ***  For Gen mode  ***
+[gen] #hasnt been updated
+TOTAL_GENS = [100, 500, 1000]
+INIT_GENS = [50, 100, 500]
+TOURN_SIZE = [4, 16]

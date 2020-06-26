@@ -1,0 +1,7 @@
+            locs,
+            min_fits,
+            n_evals,
+            pop_sizes,
+            init_pop_sizes,
+            mutation_methods,
+            compare_methods,
